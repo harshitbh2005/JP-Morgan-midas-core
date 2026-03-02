@@ -19,3 +19,4 @@ cd services
 java -jar transaction-incentive-api.jar
 cd ..
 ./mvnw spring-boot:run
+
